@@ -1,16 +1,55 @@
-# astro_cast
+# WeatherWise Pro 🌤
 
-A new Flutter project.
+A smart weather forecasting app with AI-powered probability analysis and stunning space-themed UI.
 
-## Getting Started
+## ✨ Key Features
 
-This project is a starting point for a Flutter application.
+- Smart Probability Analysis - AI-driven weather condition probabilities
+- Multi-Date Support - Current, historical (7 days), and forecast (14 days) weather
+- Safety Tips - Personalized recommendations for different weather conditions
+- Beautiful Animations - Space-themed with stars, planets, and smooth transitions
+- Responsive Design - Works perfectly on all screen sizes
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Quick Start
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone & Install
+bash
+git clone https://github.com/your-username/weatherwise-pro.git
+cd weatherwise-pro
+flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+2. Get API Key
+   - Register at [WeatherAPI.com](https://www.weatherapi.com/)
+   - Replace API key in weather_api_service.dart
+
+3. Run the App
+bash
+flutter run
+
+
+## 🛠 Built With
+
+- Flutter 3.19 & Dart 3.0
+- WeatherAPI.com for weather data
+- Custom Animations for beautiful UI
+- Google Fonts for typography
+
+## 📱 Main Screens
+
+- Splash Screen - Animated planet with orbiting satellite
+- Home Screen - Search panel and weather results
+- Weather Cards - Probability circles with animations
+- Safety Tips - Smart recommendations based on conditions
+
+## 🎯 How It Works
+
+1. Enter city name and select date
+2. Get AI-powered probability analysis
+3. View detailed weather information
+4. Receive personalized safety tips
+
+
+---
+
+Built with ❤ using Flutter & Dart
