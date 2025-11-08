@@ -14,7 +14,7 @@ A smart weather forecasting app with AI-powered probability analysis and stunnin
 
 1. Clone & Install
 bash
-git clone https://github.com/your-username/weatherwise-pro.git
+git clone https://github.com/Ibrahim-Amr/astro_cast.git
 cd weatherwise-pro
 flutter pub get
 
